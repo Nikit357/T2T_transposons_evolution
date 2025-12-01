@@ -1,0 +1,2 @@
+This repository contains the intermediate analysis files, large Jupyter notebooks containing figure outputs, and additional plots generated during exploratory analyses but not included in the article or supplementary files.
+These files can be used to fully reproduce the data analysis done in this paper. Start with data download from UCSC Genome Browser and then run bedtools mapping, and finaly analyze the data using the main notebook.
