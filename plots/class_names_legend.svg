@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="237.6pt" height="125.28pt" viewBox="0 0 237.6 125.28" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-11-05T16:32:08.364704</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 125.28 
+L 237.6 125.28 
+L 237.6 0 
+L 0 0 
+L 0 125.28 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="legend_1">
+    <g id="patch_2">
+     <path d="M 67.974375 21.916875 
+L 91.974375 21.916875 
+L 91.974375 13.516875 
+L 67.974375 13.516875 
+z
+" style="fill: #cc660b; stroke: #cc660b; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font: 12px 'sans-serif'; text-anchor: start" x="101.574375" y="21.916875" transform="rotate(-0, 101.574375, 21.916875)">LINE</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 67.974375 39.530625 
+L 91.974375 39.530625 
+L 91.974375 31.130625 
+L 67.974375 31.130625 
+z
+" style="fill: #70453c; stroke: #70453c; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font: 12px 'sans-serif'; text-anchor: start" x="101.574375" y="39.530625" transform="rotate(-0, 101.574375, 39.530625)">LTR</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 67.974375 57.144375 
+L 91.974375 57.144375 
+L 91.974375 48.744375 
+L 67.974375 48.744375 
+z
+" style="fill: #ab1f20; stroke: #ab1f20; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font: 12px 'sans-serif'; text-anchor: start" x="101.574375" y="57.144375" transform="rotate(-0, 101.574375, 57.144375)">SINE</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 67.974375 74.758125 
+L 91.974375 74.758125 
+L 91.974375 66.358125 
+L 67.974375 66.358125 
+z
+" style="fill: #195f90; stroke: #195f90; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font: 12px 'sans-serif'; text-anchor: start" x="101.574375" y="74.758125" transform="rotate(-0, 101.574375, 74.758125)">DNA</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 67.974375 92.371875 
+L 91.974375 92.371875 
+L 91.974375 83.971875 
+L 67.974375 83.971875 
+z
+" style="fill: #765297; stroke: #765297; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font: 12px 'sans-serif'; text-anchor: start" x="101.574375" y="92.371875" transform="rotate(-0, 101.574375, 92.371875)">Retroposon</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 67.974375 109.985625 
+L 91.974375 109.985625 
+L 91.974375 101.585625 
+L 67.974375 101.585625 
+z
+" style="fill: #238023; stroke: #238023; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font: 12px 'sans-serif'; text-anchor: start" x="101.574375" y="109.985625" transform="rotate(-0, 101.574375, 109.985625)">RC</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
