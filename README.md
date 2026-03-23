@@ -2,7 +2,7 @@
 
 # Transposable element–host genome evolutionary arms race revealed by multi-modal epigenomic profiling in a telomere-to-telomere human genome reference
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19052416.svg)](https://zenodo.org/records/19052416)
+[![DOI](https://www.biorxiv.org/content/10.64898/2026.03.19.712972v1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the computational framework, data processing scripts, and analysis notebooks for the study of the epigenetic dynamics of **3.7 million transposable elements (TEs)** using the complete **T2T-CHM13** human genome assembly.
